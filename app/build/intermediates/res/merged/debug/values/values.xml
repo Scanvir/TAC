@@ -302,6 +302,9 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorControlNormal">@color/colorWhite</item>
+
+        <item name="android:statusBarColor">@android:color/transparent</item>
+
     </style>
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar"/>
     <style name="Base.AlertDialog.AppCompat" parent="android:Widget">
