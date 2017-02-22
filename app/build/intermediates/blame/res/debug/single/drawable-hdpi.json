@@ -64,6 +64,10 @@
         "source": "G:\\TEST\\TAC\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
     },
     {
+        "merged": "G:\\TEST\\TAC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_exit_to_app.png",
+        "source": "G:\\TEST\\TAC\\app\\src\\main\\res\\drawable-hdpi\\ic_exit_to_app.png"
+    },
+    {
         "merged": "G:\\TEST\\TAC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
         "source": "G:\\TEST\\TAC\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },

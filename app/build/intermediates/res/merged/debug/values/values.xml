@@ -293,6 +293,8 @@
     <string name="hint_password">Password</string>
     <string name="name">Fullname</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="view_navigation_close">Close</string>
+    <string name="view_navigation_open">Open</string>
     <string name="welcome">Welcome</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>

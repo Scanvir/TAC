@@ -178,5 +178,9 @@
     {
         "merged": "G:\\TEST\\TAC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_scrubber_control_to_pressed_mtrl_005.png",
         "source": "G:\\TEST\\TAC\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "G:\\TEST\\TAC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_exit_to_app.png",
+        "source": "G:\\TEST\\TAC\\app\\src\\main\\res\\drawable-mdpi\\ic_exit_to_app.png"
     }
 ]
