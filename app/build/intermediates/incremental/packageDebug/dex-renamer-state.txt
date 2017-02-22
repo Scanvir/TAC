@@ -1,7 +1,4 @@
-#Mon Feb 20 21:20:24 EET 2017
-base.0=C\:\\Users\\Skalnyy\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_cf728c2e90485507ba0969d85c149d392d944a5d
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=C\:\\Users\\Skalnyy\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_6564bac1c5ab1a05c1736584bf3caccc99bf4715\\classes.dex
-base.1=C\:\\Users\\Skalnyy\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_6564bac1c5ab1a05c1736584bf3caccc99bf4715
-file.0=C\:\\Users\\Skalnyy\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_cf728c2e90485507ba0969d85c149d392d944a5d\\classes.dex
+#Wed Feb 22 20:28:41 EET 2017
+base.0=G\:\\TEST\\TAC\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=G\:\\TEST\\TAC\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
