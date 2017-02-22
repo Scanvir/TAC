@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Skalnyy\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\build\\intermediates\\res\\merged\\debug\\xml\\sync_myapp.xml",
+        "source": "C:\\Users\\Skalnyy\\AndroidStudioProjects\\AndroidLoginAndRegistration\\app\\src\\main\\res\\xml\\sync_myapp.xml"
+    },
+    {
+        "merged": "G:\\TEST\\TAC\\app\\build\\intermediates\\res\\merged\\debug\\xml\\sync_myapp.xml",
+        "source": "G:\\TEST\\TAC\\app\\src\\main\\res\\xml\\sync_myapp.xml"
+    }
+]

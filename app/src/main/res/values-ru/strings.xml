@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Клиент торгового агента</string>
+    <string name="btn_link_to_login">Авторизация</string>
+    <string name="btn_link_to_register">Регистрация</string>
+    <string name="btn_login">Войти</string>
+    <string name="btn_logout">Выйти</string>
+    <string name="btn_register">Регистрация</string>
+    <string name="hint_name">Имя</string>
+    <string name="hint_password">Пароль</string>
+    <string name="name">Полное имя</string>
+    <string name="welcome">Добро пожаловать</string>
+    <string name="hint_email">Код</string>
+</resources>
