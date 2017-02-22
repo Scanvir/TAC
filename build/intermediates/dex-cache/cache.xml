@@ -2,67 +2,85 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="G:\TEST\TAC\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
-        <dex dex="G:\TEST\TAC\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_e997411a2f76d9a0c879f5c340bc678ab2b911aa.jar" />
-    </item>
-    <item
-        is-multidex="false"
+        is-multidex="true"
         jar="G:\TEST\TAC\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\jars\classes.jar"
-        jumboMode="false"
+        jumboMode="true"
         optimize="true"
         revision="23.0.2"
         sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
-        <dex dex="G:\TEST\TAC\app\build\intermediates\pre-dexed\debug\com.mcxiaoke.volley-library-aar-1.0.0_784fda748caf6082926a454ba4b30e7882021cb7.jar" />
+        <dex dex="G:\TEST\TAC\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mcxiaoke.volley-library-aar-1.0.0_784fda748caf6082926a454ba4b30e7882021cb7\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="G:\SDK\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="G:\TEST\TAC\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
-        <dex dex="G:\TEST\TAC\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_06bd953ce2f50690f59087607bb2d59885668910.jar" />
+        sha1="316da04836cdf49cf1ef3634d88d54aa1f414942">
+        <dex dex="G:\TEST\TAC\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_628bfa236c57091823dc0aeba447a67515c22041\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="G:\TEST\TAC\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
-        <dex dex="G:\TEST\TAC\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_e58e325560ebe839f98f5492e3a4970e2bace59d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="G:\TEST\TAC\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.2"
-        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
-        <dex dex="G:\TEST\TAC\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_d8c14b1ac04c7ee647f186cc781b393d6e616d6c.jar" />
-    </item>
-    <item
-        is-multidex="false"
+        is-multidex="true"
         jar="G:\TEST\TAC\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
-        jumboMode="false"
+        jumboMode="true"
         optimize="true"
         revision="23.0.2"
         sha1="379471b2bd17d9737c050345c08e8c7d16589784">
-        <dex dex="G:\TEST\TAC\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_8ef566f114950d8f109219dc877cf627bdf8a233.jar" />
+        <dex dex="G:\TEST\TAC\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.1_8ef566f114950d8f109219dc877cf627bdf8a233\classes.dex" />
     </item>
     <item
-        is-multidex="false"
+        is-multidex="true"
+        jar="G:\SDK\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="G:\TEST\TAC\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_06bd953ce2f50690f59087607bb2d59885668910\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\TEST\TAC\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="G:\TEST\TAC\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_d8c14b1ac04c7ee647f186cc781b393d6e616d6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\TEST\TAC\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="G:\TEST\TAC\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.1_e58e325560ebe839f98f5492e3a4970e2bace59d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="G:\TEST\TAC\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
-        jumboMode="false"
+        jumboMode="true"
         optimize="true"
         revision="23.0.2"
         sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
-        <dex dex="G:\TEST\TAC\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_a25f2b8f49d2aa64c084447fc3fc6d2e78327deb.jar" />
+        <dex dex="G:\TEST\TAC\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_a25f2b8f49d2aa64c084447fc3fc6d2e78327deb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\TEST\TAC\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="G:\TEST\TAC\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_e997411a2f76d9a0c879f5c340bc678ab2b911aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\TEST\TAC\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9879d7463bc97e19c54803644a449ad136012c9b">
+        <dex dex="G:\TEST\TAC\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_80a00f0afff9e96c0209bd39b2481ba2dad98605\classes.dex" />
     </item>
 
 </items>

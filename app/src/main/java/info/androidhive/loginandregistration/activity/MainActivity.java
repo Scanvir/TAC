@@ -1,21 +1,24 @@
 package info.androidhive.loginandregistration.activity;
 
-import android.app.Activity;
+
 import android.content.Intent;
 import android.os.Bundle;
-import android.view.Menu;
-import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
+
 import java.util.HashMap;
+
+import android.support.v7.app.AppCompatActivity;
+import android.support.v7.widget.Toolbar;
+import android.view.MenuItem;
 
 import info.androidhive.loginandregistration.R;
 import info.androidhive.loginandregistration.helper.SQLiteHandler;
 import info.androidhive.loginandregistration.helper.SessionManager;
 
-public class MainActivity extends Activity {
+public class MainActivity extends AppCompatActivity {
 
 	private TextView txtName;
 	private TextView txtEmail;
@@ -24,12 +27,16 @@ public class MainActivity extends Activity {
 	private SQLiteHandler db;
 	private SessionManager session;
 
+	private Toolbar toolbar;
+
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
+		setTheme(R.style.AppDefault);
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 
-		txtName = (TextView) findViewById(R.id.name);
+		initToolbar();
+		/*txtName = (TextView) findViewById(R.id.name);
 		txtEmail = (TextView) findViewById(R.id.email);
 		btnLogout = (Button) findViewById(R.id.btnLogout);
 
@@ -60,8 +67,23 @@ public class MainActivity extends Activity {
 			public void onClick(View v) {
 				logoutUser();
 			}
-		});
+		});*/
 	}
+
+	private void initToolbar() {
+		toolbar = (Toolbar) findViewById(R.id.toolbar);
+		toolbar.setTitle(R.string.app_name);
+		toolbar.setOnMenuItemClickListener(new Toolbar.OnMenuItemClickListener() {
+			@Override
+			public boolean onMenuItemClick(MenuItem menuItem) {
+				return false;
+			}
+
+		});
+
+		toolbar.inflateMenu(R.menu.menu);
+	}
+
 
 	/**
 	 * Logging out the user. Will set isLoggedIn flag to false in shared

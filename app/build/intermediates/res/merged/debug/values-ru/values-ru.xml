@@ -19,7 +19,7 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Открыть доступ"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Открыть доступ пользователю %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Свернуть"</string>
-    <string name="app_name">Клиент торгового агента</string>
+    <string name="app_name">Клиент ТА</string>
     <string name="btn_link_to_login">Авторизация</string>
     <string name="btn_link_to_register">Регистрация</string>
     <string name="btn_login">Войти</string>

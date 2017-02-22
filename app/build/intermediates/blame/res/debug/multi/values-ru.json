@@ -368,8 +368,8 @@
                     "startLine": 21,
                     "startColumn": 4,
                     "startOffset": 2034,
-                    "endColumn": 60,
-                    "endOffset": 2090
+                    "endColumn": 46,
+                    "endOffset": 2076
                 },
                 "from": {
                     "file": "G:\\TEST\\TAC\\app\\src\\main\\res\\values-ru\\strings.xml",
@@ -377,8 +377,8 @@
                         "startLine": 2,
                         "startColumn": 4,
                         "startOffset": 57,
-                        "endColumn": 60,
-                        "endOffset": 113
+                        "endColumn": 46,
+                        "endOffset": 99
                     }
                 }
             },
@@ -386,18 +386,18 @@
                 "to": {
                     "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 2095,
+                    "startOffset": 2081,
                     "endColumn": 57,
-                    "endOffset": 2148
+                    "endOffset": 2134
                 },
                 "from": {
                     "file": "G:\\TEST\\TAC\\app\\src\\main\\res\\values-ru\\strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 119,
+                        "startOffset": 105,
                         "endColumn": 57,
-                        "endOffset": 172
+                        "endOffset": 158
                     }
                 }
             },
@@ -405,18 +405,18 @@
                 "to": {
                     "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 2153,
+                    "startOffset": 2139,
                     "endColumn": 60,
-                    "endOffset": 2209
+                    "endOffset": 2195
                 },
                 "from": {
                     "file": "G:\\TEST\\TAC\\app\\src\\main\\res\\values-ru\\strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 178,
+                        "startOffset": 164,
                         "endColumn": 60,
-                        "endOffset": 234
+                        "endOffset": 220
                     }
                 }
             },
@@ -424,18 +424,18 @@
                 "to": {
                     "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 2214,
+                    "startOffset": 2200,
                     "endColumn": 43,
-                    "endOffset": 2253
+                    "endOffset": 2239
                 },
                 "from": {
                     "file": "G:\\TEST\\TAC\\app\\src\\main\\res\\values-ru\\strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 240,
+                        "startOffset": 226,
                         "endColumn": 43,
-                        "endOffset": 279
+                        "endOffset": 265
                     }
                 }
             },
@@ -443,18 +443,18 @@
                 "to": {
                     "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 2258,
+                    "startOffset": 2244,
                     "endColumn": 44,
-                    "endOffset": 2298
+                    "endOffset": 2284
                 },
                 "from": {
                     "file": "G:\\TEST\\TAC\\app\\src\\main\\res\\values-ru\\strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 285,
+                        "startOffset": 271,
                         "endColumn": 44,
-                        "endOffset": 325
+                        "endOffset": 311
                     }
                 }
             },
@@ -462,18 +462,18 @@
                 "to": {
                     "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 2303,
+                    "startOffset": 2289,
                     "endColumn": 52,
-                    "endOffset": 2351
+                    "endOffset": 2337
                 },
                 "from": {
                     "file": "G:\\TEST\\TAC\\app\\src\\main\\res\\values-ru\\strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 331,
+                        "startOffset": 317,
                         "endColumn": 52,
-                        "endOffset": 379
+                        "endOffset": 365
                     }
                 }
             },
@@ -481,18 +481,18 @@
                 "to": {
                     "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 2356,
+                    "startOffset": 2342,
                     "endColumn": 42,
-                    "endOffset": 2394
+                    "endOffset": 2380
                 },
                 "from": {
                     "file": "G:\\TEST\\TAC\\app\\src\\main\\res\\values-ru\\strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 577,
+                        "startOffset": 563,
                         "endColumn": 42,
-                        "endOffset": 615
+                        "endOffset": 601
                     }
                 }
             },
@@ -500,18 +500,18 @@
                 "to": {
                     "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 2399,
+                    "startOffset": 2385,
                     "endColumn": 41,
-                    "endOffset": 2436
+                    "endOffset": 2422
                 },
                 "from": {
                     "file": "G:\\TEST\\TAC\\app\\src\\main\\res\\values-ru\\strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 385,
+                        "startOffset": 371,
                         "endColumn": 41,
-                        "endOffset": 422
+                        "endOffset": 408
                     }
                 }
             },
@@ -519,18 +519,18 @@
                 "to": {
                     "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 2441,
+                    "startOffset": 2427,
                     "endColumn": 48,
-                    "endOffset": 2485
+                    "endOffset": 2471
                 },
                 "from": {
                     "file": "G:\\TEST\\TAC\\app\\src\\main\\res\\values-ru\\strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 428,
+                        "startOffset": 414,
                         "endColumn": 48,
-                        "endOffset": 472
+                        "endOffset": 458
                     }
                 }
             },
@@ -538,18 +538,18 @@
                 "to": {
                     "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 2490,
+                    "startOffset": 2476,
                     "endColumn": 43,
-                    "endOffset": 2529
+                    "endOffset": 2515
                 },
                 "from": {
                     "file": "G:\\TEST\\TAC\\app\\src\\main\\res\\values-ru\\strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 478,
+                        "startOffset": 464,
                         "endColumn": 43,
-                        "endOffset": 517
+                        "endOffset": 503
                     }
                 }
             },
@@ -557,9 +557,9 @@
                 "to": {
                     "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 2534,
+                    "startOffset": 2520,
                     "endColumn": 100,
-                    "endOffset": 2630
+                    "endOffset": 2616
                 },
                 "from": {
                     "file": "G:\\TEST\\TAC\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ru\\values-ru.xml",
@@ -576,18 +576,18 @@
                 "to": {
                     "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 2635,
+                    "startOffset": 2621,
                     "endColumn": 52,
-                    "endOffset": 2683
+                    "endOffset": 2669
                 },
                 "from": {
                     "file": "G:\\TEST\\TAC\\app\\src\\main\\res\\values-ru\\strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 523,
+                        "startOffset": 509,
                         "endColumn": 52,
-                        "endOffset": 571
+                        "endOffset": 557
                     }
                 }
             }

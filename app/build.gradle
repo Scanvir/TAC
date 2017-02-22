@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         applicationId "info.androidhive.loginandregistration"
-        minSdkVersion 15
+        minSdkVersion 21
         targetSdkVersion 23
     }
 

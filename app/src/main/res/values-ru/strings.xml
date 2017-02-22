@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Клиент торгового агента</string>
+    <string name="app_name">Клиент ТА</string>
     <string name="btn_link_to_login">Авторизация</string>
     <string name="btn_link_to_register">Регистрация</string>
     <string name="btn_login">Войти</string>

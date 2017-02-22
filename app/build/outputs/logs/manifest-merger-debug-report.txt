@@ -27,7 +27,7 @@ MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] G:\TEST\TAC\app\build\interm
 		INJECTED from G:\TEST\TAC\app\src\main\AndroidManifest.xml
 		INJECTED from G:\TEST\TAC\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from G:\TEST\TAC\app\src\main\AndroidManifest.xml:8:9-34
+		ADDED from G:\TEST\TAC\app\src\main\AndroidManifest.xml:8:9-35
 		INJECTED from G:\TEST\TAC\app\src\main\AndroidManifest.xml
 		INJECTED from G:\TEST\TAC\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
