@@ -168,6 +168,10 @@
         "source": "G:\\TEST\\TAC\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_list_divider_mtrl_alpha.9.png"
     },
     {
+        "merged": "G:\\TEST\\TAC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_update.png",
+        "source": "G:\\TEST\\TAC\\app\\src\\main\\res\\drawable-mdpi\\ic_update.png"
+    },
+    {
         "merged": "G:\\TEST\\TAC\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\abc_ic_menu_share_mtrl_alpha.png",
         "source": "G:\\TEST\\TAC\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-mdpi\\abc_ic_menu_share_mtrl_alpha.png"
     },

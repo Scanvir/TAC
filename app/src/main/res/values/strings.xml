@@ -13,4 +13,11 @@
     <string name="name">Fullname</string>
     <string name="view_navigation_open">Open</string>
     <string name="view_navigation_close">Close</string>
+    <string name="nav_update">Обновление</string>
+    <string name="main">Вернуться к списку клиентов</string>
+    <string name="btn_create_pko">Сохранить</string>
+    <string name="btnPKO">ПРИХОДНЫЙ КАССОВЫЙ ОРДЕР</string>
+    <string name="id">Id</string>
+    <string name="nameKlient">Name</string>
+    <string name="todo">TODO</string>
 </resources>

@@ -6,22 +6,19 @@
 
     <uses-sdk
         android:minSdkVersion="21"
-        android:targetSdkVersion="23" />
+        android:targetSdkVersion="25" />
 
     <uses-permission android:name="android.permission.INTERNET" />
-    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
-    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS" />
-    <uses-permission android:name="android.permission.AUTHENTICATE_ACCOUNTS" />
-    <uses-permission android:name="android.permission.USE_CREDENTIALS" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
     <application
-        android:name="info.androidhive.loginandregistration.app.AppController"
+        android:name="info.androidhive.tac.app.AppController"
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="info.androidhive.loginandregistration.activity.LoginActivity"
+            android:name="info.androidhive.tac.activity.LoginActivity"
             android:label="@string/app_name"
             android:launchMode="singleTop"
             android:windowSoftInputMode="adjustPan" >
@@ -32,14 +29,23 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="info.androidhive.loginandregistration.activity.RegisterActivity"
+            android:name="info.androidhive.tac.activity.RegisterActivity"
             android:label="@string/app_name"
             android:launchMode="singleTop"
             android:windowSoftInputMode="adjustPan" />
         <activity
-            android:name="info.androidhive.loginandregistration.activity.MainActivity"
+            android:name="info.androidhive.tac.activity.PKO_Activity"
+            android:label="@string/app_name"
+            android:launchMode="singleTop"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="info.androidhive.tac.activity.MainActivity"
             android:label="@string/app_name"
             android:launchMode="singleTop" />
+
+        <service
+            android:name="info.androidhive.tac.network.SampleRetrofitSpiceService"
+            android:exported="false" />
     </application>
 
 </manifest>

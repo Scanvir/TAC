@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <group android:id="@+id/klient_menu" >
+        <item
+            android:id="@+id/menu1"
+            android:title="Создать ПКО"
+            android:icon="@android:drawable/ic_menu_add"/>
+        <item
+            android:id="@+id/menu2"
+            android:enabled="false"
+            android:icon="@android:drawable/ic_menu_edit"
+            android:title="Создать Заказ" />
+    </group>
+</menu>

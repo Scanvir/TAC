@@ -3,14 +3,23 @@
     android:id="@+id/drawer_layout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/mainBackground"
+    android:background="@color/editColor"
     android:fitsSystemWindows="true" >
 
     <android.support.design.widget.CoordinatorLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/my_recycler_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scrollbars="vertical"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior">
+        </android.support.v7.widget.RecyclerView>
+
         <android.support.design.widget.AppBarLayout
+            android:id="@+id/appbar"
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
 
@@ -18,9 +27,12 @@
                 android:id="@+id/toolbar"
                 android:layout_width="match_parent"
                 android:layout_height="?attr/actionBarSize"
-                android:background="?attr/colorPrimary"/>
+                android:theme="@style/ThemeOverlay.AppCompat.Dark"
+                android:background="?attr/colorPrimary" />
         </android.support.design.widget.AppBarLayout>
+
     </android.support.design.widget.CoordinatorLayout>
+
 
     <android.support.design.widget.NavigationView
         android:id="@+id/navigation"
@@ -29,5 +41,6 @@
         android:layout_gravity="start"
         app:menu="@menu/menu_navigation"
         app:headerLayout="@layout/navigation_header"/>
+
 
 </android.support.v4.widget.DrawerLayout>

@@ -1,4 +1,7 @@
-#Wed Feb 22 23:57:10 EET 2017
-base.0=G\:\\TEST\\TAC\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
-renamed.0=classes.dex
-file.0=G\:\\TEST\\TAC\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+#Tue Mar 14 21:18:08 EET 2017
+base.0=G\:\\TEST\\TAC\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_628bfa236c57091823dc0aeba447a67515c22041
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=G\:\\TEST\\TAC\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_80a00f0afff9e96c0209bd39b2481ba2dad98605\\classes.dex
+base.1=G\:\\TEST\\TAC\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_80a00f0afff9e96c0209bd39b2481ba2dad98605
+file.0=G\:\\TEST\\TAC\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_628bfa236c57091823dc0aeba447a67515c22041\\classes.dex
